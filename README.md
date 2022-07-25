@@ -10,13 +10,13 @@ The purpose of this analysis was to determine if there was any bias towards revi
     
     After filtering the vine table to identify the reviews where the percent of helpful votes was not less than 50% of the reviews with greater than 19 votes, there was a total of 403,807 reviews (Vine and non-Vine)
 
-    <kbd>![Figure 1: Sampling of population referenced above]](/Resources/Figure_1.PNG)</kbd>
+    <kbd>![Figure 1: Sampling of population referenced above](/Resources/Figure_1.PNG)</kbd>
 
 ### 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
     
     Total Vine Reviews with a 5-star rating:  242,889
     
-    <kbd>![Figure 2: Total Count Calculation]](/Resources/Figure_2.PNG)</kbd>
+    <kbd>![Figure 2: Total Count Calculation](/Resources/Figure_2.PNG)</kbd>
 
 ### 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
